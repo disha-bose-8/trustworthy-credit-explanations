@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+lightgbm
+shap
+matplotlib
+seaborn
+scipy
+pyyaml
+python-dotenv
+tqdm
+jupyter
+# plus ONE LLM client like anthropic / openai / google-generativeai / ollama
