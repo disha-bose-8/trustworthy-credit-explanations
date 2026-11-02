@@ -1,11 +1,11 @@
 {
-  "test_auc": 0.7561,
-  "trees_used": 417,
+  "test_auc": 0.7528,
+  "trees_used": 277,
   "n_train": 221407,
   "n_valid": 24601,
   "n_test": 61503,
   "flag_top_pct": 10,
-  "flag_threshold_prob": 0.1804,
+  "flag_threshold_prob": 0.1773,
   "default_rate_overall_test": 0.0807,
-  "default_rate_among_flagged": 0.2765
+  "default_rate_among_flagged": 0.2726
 }

@@ -9,7 +9,7 @@ CLEAN_PATH = Path("data/processed/clean.csv")
 
 # Model features (about 26). Some are derived below, e.g. AGE_YEARS.
 NUMERIC = [
-    "AMT_INCOME_TOTAL", "AMT_CREDIT", "AMT_ANNUITY", "AMT_GOODS_PRICE",
+    "AMT_INCOME_TOTAL", "AMT_CREDIT", "AMT_ANNUITY",
     "CREDIT_TO_INCOME", "ANNUITY_TO_INCOME",
     "AGE_YEARS", "YEARS_EMPLOYED", "NO_EMPLOYMENT_RECORD",
     "CNT_CHILDREN", "CNT_FAM_MEMBERS", "REGION_RATING_CLIENT",
@@ -29,7 +29,6 @@ READABLE = {
     "AMT_INCOME_TOTAL": "Annual income",
     "AMT_CREDIT": "Loan amount",
     "AMT_ANNUITY": "Loan annuity (repayment per period)",
-    "AMT_GOODS_PRICE": "Price of goods being financed",
     "CREDIT_TO_INCOME": "Loan-to-income ratio",
     "ANNUITY_TO_INCOME": "Repayment-to-income ratio",
     "AGE_YEARS": "Applicant age (years)",
