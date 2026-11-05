@@ -1,0 +1,7 @@
+hypothesis,test,statistic,p_value,effect_size,effect_type,alpha,significant
+H1 External credit score 2 vs default,Welch t-test,-80.46553390891432,0.0,-0.5967819040887904,Cohen's d,0.05,True
+H1b Loan-to-income ratio vs default,Mann-Whitney U,3495469694.5,0.3187524307279678,-0.003810456046802191,rank-biserial r,0.05,False
+H2 Education level vs default,Chi-square,1019.2131873088356,2.4476812052198174e-219,0.05757079004597784,Cramer's V,0.05,True
+H3 none vs global (top-3 overlap),Wilcoxon signed-rank,4103.0,9.36645621745658e-19,0.23333333333333334,mean gain in overlap,0.016666666666666666,True
+H3 global vs applicant-level (top-3 overlap),Wilcoxon signed-rank,1137.0,5.682552912295961e-35,0.3566666666666667,mean gain in overlap,0.016666666666666666,True
+H3 none vs applicant-level (top-3 overlap),Wilcoxon signed-rank,90.5,4.628405263164322e-47,0.59,mean gain in overlap,0.016666666666666666,True

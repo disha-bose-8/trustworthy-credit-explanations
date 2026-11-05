@@ -11,3 +11,4 @@ python-dotenv
 tqdm
 jupyter
 # plus ONE LLM client like anthropic / openai / google-generativeai / ollama
+groq

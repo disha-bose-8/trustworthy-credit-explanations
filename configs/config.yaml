@@ -1,5 +1,6 @@
 seed: 42
 test_size: 0.2
 n_applicants: 300
-llm_model: "to be decided"
+llm_provider: "groq"
+llm_model: "llama-3.3-70b-versatile"
 temperature: 0
