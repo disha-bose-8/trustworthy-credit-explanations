@@ -1,7 +1,7 @@
 hypothesis,test,statistic,p_value,effect_size,effect_type,alpha,significant
-H1 External credit score 2 vs default,Welch t-test,-80.46553390891432,0.0,-0.5967819040887904,Cohen's d,0.05,True
+H1 External credit score 2 vs default,Welch t-test,-80.46553390891434,0.0,-0.5967819040887904,Cohen's d,0.05,True
 H1b Loan-to-income ratio vs default,Mann-Whitney U,3495469694.5,0.3187524307279678,-0.003810456046802191,rank-biserial r,0.05,False
 H2 Education level vs default,Chi-square,1019.2131873088356,2.4476812052198174e-219,0.05757079004597784,Cramer's V,0.05,True
-H3 none vs global (top-3 overlap),Wilcoxon signed-rank,7.0,0.296875,0.16667,mean gain in overlap,0.016666666666666666,False
-H3 global vs applicant-level (top-3 overlap),Wilcoxon signed-rank,0.0,0.015625,0.43334,mean gain in overlap,0.016666666666666666,True
-H3 none vs applicant-level (top-3 overlap),Wilcoxon signed-rank,0.0,0.001953125,0.6000100000000002,mean gain in overlap,0.016666666666666666,True
+H3 none vs global (top-3 overlap),Wilcoxon signed-rank,1428.5,2.569189530693909e-29,0.28668899999999997,mean gain in overlap,0.016666666666666666,True
+H3 global vs applicant-level (top-3 overlap),Wilcoxon signed-rank,0.0,2.007831233393708e-45,0.3655453333333333,mean gain in overlap,0.016666666666666666,True
+H3 none vs applicant-level (top-3 overlap),Wilcoxon signed-rank,0.0,7.856703042101785e-54,0.6522343333333335,mean gain in overlap,0.016666666666666666,True
