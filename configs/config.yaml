@@ -2,5 +2,5 @@ seed: 42
 test_size: 0.2
 n_applicants: 300
 llm_provider: "groq"
-llm_model: "llama-3.3-70b-versatile"
+llm_model: "openai/gpt-oss-120b"
 temperature: 0
