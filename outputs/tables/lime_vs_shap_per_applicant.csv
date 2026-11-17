@@ -1,0 +1,301 @@
+applicant_id,lime_top3,shap_top3,agreed_features,overlap,direction_agreement_on_shared
+104106,External credit score 1; External credit score 2; External credit score 3,External credit score 1; External credit score 2; External credit score 3,3,1.0,1.0
+104583,External credit score 1; External credit score 2; Loan type,External credit score 1; External credit score 2; Social circle: defaults 30 days past due,2,0.6666666666666666,1.0
+104807,External credit score 1; External credit score 3; Loan type,External credit score 2; External credit score 3; Housing type,1,0.3333333333333333,1.0
+104971,External credit score 1; External credit score 2; Loan type,External credit score 2; External credit score 3; Years in current job,1,0.3333333333333333,1.0
+106372,External credit score 1; External credit score 2; Loan type,External credit score 1; External credit score 2; Loan amount,2,0.6666666666666666,1.0
+106925,External credit score 1; External credit score 3; Loan type,External credit score 1; External credit score 3; Social circle: defaults 30 days past due,2,0.6666666666666666,1.0
+107008,External credit score 1; External credit score 3; Loan type,External credit score 1; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+107905,External credit score 1; External credit score 2; Occupation,External credit score 2; Occupation; Years in current job,2,0.6666666666666666,1.0
+109197,External credit score 1; External credit score 2; Loan type,Credit bureau enquiries (last year); External credit score 2; Loan-to-income ratio,1,0.3333333333333333,1.0
+112549,External credit score 2; External credit score 3; Loan type,External credit score 1; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+112760,External credit score 1; External credit score 2; External credit score 3,External credit score 2; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+114232,External credit score 2; External credit score 3; Loan type,Applicant age (years); External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+115191,External credit score 1; External credit score 3; Loan type,External credit score 1; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+115629,External credit score 1; Loan type; Occupation,Occupation; Social circle: defaults 30 days past due; Years in current job,1,0.3333333333333333,1.0
+117078,External credit score 2; Loan type; Occupation,External credit score 2; External credit score 3; Years in current job,1,0.3333333333333333,1.0
+117727,External credit score 1; External credit score 2; Loan type,External credit score 2; Loan amount; Loan annuity (repayment per period),1,0.3333333333333333,1.0
+117769,External credit score 1; Loan type; Occupation,External credit score 3; Occupation; Years in current job,1,0.3333333333333333,1.0
+117926,External credit score 1; External credit score 2; Loan type,External credit score 1; External credit score 2; Loan annuity (repayment per period),2,0.6666666666666666,1.0
+121171,External credit score 1; External credit score 2; Loan type,External credit score 2; Occupation; Years in current job,1,0.3333333333333333,1.0
+121871,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Occupation,2,0.6666666666666666,1.0
+122297,External credit score 1; External credit score 3; Loan type,External credit score 1; External credit score 3; Family status,2,0.6666666666666666,1.0
+122899,External credit score 1; External credit score 2; Loan type,Annual income; External credit score 2; Years in current job,1,0.3333333333333333,1.0
+123778,External credit score 1; External credit score 3; Loan type,External credit score 3; Loan amount; Loan annuity (repayment per period),1,0.3333333333333333,1.0
+124131,External credit score 1; External credit score 2; External credit score 3,External credit score 1; External credit score 2; External credit score 3,3,1.0,1.0
+126149,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Occupation,2,0.6666666666666666,1.0
+127545,External credit score 1; External credit score 3; Loan type,Applicant age (years); External credit score 1; Years in current job,1,0.3333333333333333,1.0
+128497,External credit score 1; External credit score 3; Loan type,External credit score 1; External credit score 3; Repayment-to-income ratio,2,0.6666666666666666,1.0
+128641,External credit score 1; External credit score 3; Loan type,External credit score 1; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+129687,External credit score 1; External credit score 2; Loan type,External credit score 2; Occupation; Social circle: defaults 30 days past due,1,0.3333333333333333,1.0
+129883,External credit score 1; External credit score 2; External credit score 3,Applicant age (years); External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+130492,External credit score 1; External credit score 2; Loan type,External credit score 2; Loan annuity (repayment per period); Occupation,1,0.3333333333333333,1.0
+131928,External credit score 1; External credit score 2; External credit score 3,Applicant age (years); External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+133636,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+134346,External credit score 1; External credit score 3; Loan type,External credit score 2; External credit score 3; Loan annuity (repayment per period),1,0.3333333333333333,1.0
+134743,External credit score 1; External credit score 3; Loan type,External credit score 1; External credit score 3; Repayment-to-income ratio,2,0.6666666666666666,1.0
+137056,External credit score 1; External credit score 3; Loan type,Credit bureau enquiries (last year); External credit score 1; External credit score 2,1,0.3333333333333333,1.0
+137784,External credit score 1; External credit score 2; Loan type,External credit score 1; External credit score 2; Occupation,2,0.6666666666666666,1.0
+138590,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Loan type,3,1.0,1.0
+139065,External credit score 2; External credit score 3; Loan type,External credit score 1; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+139279,External credit score 1; External credit score 2; External credit score 3,External credit score 1; External credit score 2; External credit score 3,3,1.0,1.0
+139718,External credit score 1; External credit score 2; Loan type,External credit score 2; External credit score 3; Years in current job,1,0.3333333333333333,1.0
+146230,External credit score 1; External credit score 3; Loan type,External credit score 1; External credit score 3; Owns a car,2,0.6666666666666666,1.0
+148331,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+149201,External credit score 2; External credit score 3; Loan type,External credit score 1; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+151836,External credit score 1; Loan type; Occupation,External credit score 3; Occupation; Years in current job,1,0.3333333333333333,1.0
+155513,External credit score 1; External credit score 3; Loan type,External credit score 1; External credit score 3; Occupation,2,0.6666666666666666,1.0
+157707,External credit score 1; External credit score 2; External credit score 3,External credit score 2; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+159391,External credit score 1; External credit score 2; Loan type,External credit score 2; Loan amount; Loan annuity (repayment per period),1,0.3333333333333333,1.0
+159531,External credit score 2; External credit score 3; Loan type,External credit score 1; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+163047,External credit score 2; External credit score 3; Loan type,Applicant age (years); External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+164935,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Loan amount,2,0.6666666666666666,1.0
+165388,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+168964,External credit score 1; External credit score 2; Loan type,External credit score 1; External credit score 2; Years in current job,2,0.6666666666666666,1.0
+169472,External credit score 2; External credit score 3; Loan type,External credit score 1; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+170824,External credit score 2; External credit score 3; Loan type,External credit score 1; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+172312,External credit score 1; External credit score 2; External credit score 3,External credit score 1; External credit score 2; External credit score 3,3,1.0,1.0
+173841,External credit score 1; External credit score 3; Loan type,External credit score 3; Loan amount; Loan annuity (repayment per period),1,0.3333333333333333,1.0
+175196,External credit score 2; External credit score 3; Loan type,Applicant age (years); External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+175725,External credit score 1; External credit score 2; External credit score 3,External credit score 1; External credit score 2; External credit score 3,3,1.0,1.0
+177279,External credit score 1; External credit score 2; External credit score 3,External credit score 2; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+177533,External credit score 1; External credit score 2; Loan type,External credit score 1; External credit score 2; Occupation,2,0.6666666666666666,1.0
+178022,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+180257,External credit score 1; External credit score 3; Loan type,External credit score 1; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+181715,External credit score 2; External credit score 3; Loan type,External credit score 1; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+182109,External credit score 1; External credit score 3; Loan type,Applicant age (years); Education level; External credit score 3,1,0.3333333333333333,1.0
+183469,External credit score 1; External credit score 2; Loan type,External credit score 1; External credit score 2; Loan type,3,1.0,1.0
+189320,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+189381,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Social circle: defaults 30 days past due,2,0.6666666666666666,1.0
+190145,External credit score 1; External credit score 2; External credit score 3,External credit score 2; External credit score 3; Occupation,2,0.6666666666666666,1.0
+193182,External credit score 2; External credit score 3; Loan type,External credit score 1; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+193595,External credit score 1; External credit score 3; Loan type,External credit score 2; External credit score 3; Loan amount,1,0.3333333333333333,1.0
+193852,External credit score 1; External credit score 3; Loan type,External credit score 1; External credit score 3; Loan amount,2,0.6666666666666666,1.0
+194321,External credit score 1; External credit score 3; Loan type,Applicant age (years); External credit score 1; External credit score 3,2,0.6666666666666666,1.0
+200303,External credit score 1; External credit score 3; Loan type,External credit score 1; External credit score 3; Loan annuity (repayment per period),2,0.6666666666666666,1.0
+200307,External credit score 1; External credit score 2; Loan type,External credit score 2; Occupation; Years in current job,1,0.3333333333333333,1.0
+200622,External credit score 1; External credit score 2; Loan type,External credit score 1; External credit score 2; Rating of applicant's region,2,0.6666666666666666,1.0
+201134,External credit score 1; External credit score 3; Loan type,External credit score 1; External credit score 3; Social circle: defaults 30 days past due,2,0.6666666666666666,1.0
+201475,External credit score 1; External credit score 3; Loan type,Credit bureau enquiries (last year); Loan annuity (repayment per period); Rating of applicant's region,0,0.0,
+202106,External credit score 1; External credit score 3; Loan type,External credit score 2; External credit score 3; Loan amount,1,0.3333333333333333,1.0
+202261,External credit score 1; External credit score 2; External credit score 3,Education level; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+203374,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Occupation,2,0.6666666666666666,1.0
+204838,External credit score 1; Loan type; Occupation,External credit score 1; External credit score 2; Years in current job,1,0.3333333333333333,1.0
+206340,External credit score 2; External credit score 3; Loan type,Applicant age (years); External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+206745,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Social circle: defaults 30 days past due,2,0.6666666666666666,1.0
+207366,External credit score 1; External credit score 2; External credit score 3,Applicant age (years); External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+208281,External credit score 1; External credit score 2; Loan type,External credit score 1; External credit score 2; Repayment-to-income ratio,2,0.6666666666666666,1.0
+208710,External credit score 1; External credit score 2; Loan type,External credit score 2; External credit score 3; Years in current job,1,0.3333333333333333,1.0
+209246,External credit score 1; External credit score 2; Loan type,External credit score 1; External credit score 2; Rating of applicant's region,2,0.6666666666666666,0.5
+210431,External credit score 1; External credit score 2; Loan type,External credit score 2; Rating of applicant's region; Years in current job,1,0.3333333333333333,1.0
+213488,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+216361,External credit score 1; External credit score 2; External credit score 3,External credit score 1; External credit score 2; External credit score 3,3,1.0,1.0
+217214,External credit score 1; External credit score 2; External credit score 3,External credit score 1; External credit score 2; External credit score 3,3,1.0,1.0
+218425,External credit score 2; External credit score 3; Loan type,External credit score 1; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+219423,External credit score 1; External credit score 3; Loan type,External credit score 1; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+220410,External credit score 1; External credit score 2; Loan type,External credit score 2; External credit score 3; Years in current job,1,0.3333333333333333,1.0
+222609,External credit score 1; External credit score 3; Loan type,External credit score 3; Loan amount; Occupation,1,0.3333333333333333,1.0
+223671,External credit score 1; External credit score 2; External credit score 3,External credit score 1; External credit score 2; External credit score 3,3,1.0,1.0
+223805,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Occupation,2,0.6666666666666666,1.0
+224961,External credit score 1; Loan type; Occupation,External credit score 1; Loan amount; Occupation,2,0.6666666666666666,1.0
+225386,External credit score 1; External credit score 2; Loan type,External credit score 2; Occupation; Owns a car,1,0.3333333333333333,1.0
+225785,External credit score 2; External credit score 3; Loan type,External credit score 1; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+226360,External credit score 1; External credit score 2; External credit score 3,External credit score 2; External credit score 3; Social circle: defaults 30 days past due,2,0.6666666666666666,1.0
+226470,External credit score 1; External credit score 3; Loan type,External credit score 1; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+227286,External credit score 1; External credit score 2; Loan type,Education level; External credit score 2; Loan amount,1,0.3333333333333333,1.0
+227814,External credit score 1; Loan type; Occupation,Credit bureau enquiries (last year); Social circle: defaults 30 days past due; Years in current job,0,0.0,
+227999,External credit score 1; External credit score 2; Loan type,External credit score 2; External credit score 3; Occupation,1,0.3333333333333333,1.0
+229245,External credit score 2; Loan type; Occupation,External credit score 1; External credit score 2; Occupation,2,0.6666666666666666,1.0
+230337,External credit score 1; External credit score 2; External credit score 3,External credit score 1; External credit score 2; External credit score 3,3,1.0,1.0
+230816,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+230988,External credit score 1; External credit score 2; Loan type,External credit score 2; External credit score 3; Years in current job,1,0.3333333333333333,1.0
+230993,External credit score 1; Loan type; Occupation,Education level; External credit score 1; Social circle: defaults 30 days past due,1,0.3333333333333333,1.0
+232225,External credit score 1; External credit score 2; External credit score 3,External credit score 2; External credit score 3; Social circle: defaults 30 days past due,2,0.6666666666666666,1.0
+235923,External credit score 1; External credit score 2; Loan type,External credit score 2; External credit score 3; Years in current job,1,0.3333333333333333,1.0
+236438,External credit score 1; External credit score 3; Loan type,External credit score 1; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+237021,External credit score 1; External credit score 2; Loan type,External credit score 1; External credit score 2; Years in current job,2,0.6666666666666666,1.0
+238186,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+238567,External credit score 1; External credit score 2; External credit score 3,External credit score 2; External credit score 3; Occupation,2,0.6666666666666666,1.0
+238787,External credit score 1; Loan type; Occupation,External credit score 1; Occupation; Years in current job,2,0.6666666666666666,1.0
+239246,External credit score 2; External credit score 3; Loan type,External credit score 1; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+240055,External credit score 1; External credit score 2; Loan type,External credit score 2; External credit score 3; Occupation,1,0.3333333333333333,1.0
+240633,External credit score 2; External credit score 3; Loan type,External credit score 1; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+241690,External credit score 2; External credit score 3; Loan type,External credit score 1; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+242669,External credit score 1; External credit score 3; Loan type,External credit score 1; External credit score 3; Loan annuity (repayment per period),2,0.6666666666666666,1.0
+242684,External credit score 1; External credit score 2; External credit score 3,External credit score 2; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+243660,External credit score 1; External credit score 2; External credit score 3,External credit score 2; External credit score 3; Loan amount,2,0.6666666666666666,1.0
+244745,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Loan type,3,1.0,1.0
+245285,External credit score 1; External credit score 2; Loan type,External credit score 1; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+247181,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+247997,External credit score 1; External credit score 2; External credit score 3,External credit score 2; External credit score 3; Loan type,2,0.6666666666666666,1.0
+248118,External credit score 1; External credit score 2; External credit score 3,Applicant age (years); External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+249047,External credit score 1; External credit score 2; Loan type,External credit score 1; External credit score 2; Years in current job,2,0.6666666666666666,1.0
+249518,External credit score 2; External credit score 3; Loan type,Applicant age (years); External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+249535,External credit score 1; External credit score 2; Loan type,Credit bureau enquiries (last year); External credit score 2; Social circle: defaults 30 days past due,1,0.3333333333333333,1.0
+254594,External credit score 1; External credit score 2; Loan type,External credit score 2; External credit score 3; Occupation,1,0.3333333333333333,1.0
+255042,External credit score 1; External credit score 2; Loan type,External credit score 2; Loan amount; Years in current job,1,0.3333333333333333,1.0
+257702,External credit score 1; External credit score 3; Loan type,External credit score 3; Loan annuity (repayment per period); Years in current job,1,0.3333333333333333,1.0
+258830,External credit score 1; External credit score 3; Loan type,External credit score 2; External credit score 3; Years in current job,1,0.3333333333333333,0.0
+259067,External credit score 1; External credit score 2; External credit score 3,External credit score 1; External credit score 2; External credit score 3,3,1.0,0.667
+259686,External credit score 1; External credit score 3; Loan type,External credit score 3; Loan amount; Owns a car,1,0.3333333333333333,1.0
+260922,External credit score 1; External credit score 2; External credit score 3,Education level; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+263023,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+263050,External credit score 1; External credit score 3; Loan type,External credit score 3; Loan amount; Occupation,1,0.3333333333333333,1.0
+263853,External credit score 1; External credit score 2; Loan type,External credit score 1; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+265601,External credit score 1; External credit score 3; Loan type,Education level; External credit score 3; Loan amount,1,0.3333333333333333,1.0
+269059,External credit score 1; External credit score 2; Loan type,Applicant age (years); External credit score 1; External credit score 2,2,0.6666666666666666,1.0
+269349,External credit score 2; External credit score 3; Loan type,Applicant age (years); External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+269846,External credit score 1; External credit score 3; Loan type,Education level; External credit score 1; External credit score 3,2,0.6666666666666666,1.0
+270505,External credit score 1; Loan annuity (repayment per period); Loan type,Applicant age (years); External credit score 1; Social circle: defaults 30 days past due,1,0.3333333333333333,1.0
+271642,External credit score 1; External credit score 2; Loan type,External credit score 1; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+271893,External credit score 1; External credit score 3; Loan type,External credit score 1; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+277490,External credit score 1; External credit score 2; External credit score 3,External credit score 1; External credit score 2; External credit score 3,3,1.0,1.0
+279812,External credit score 1; External credit score 3; Loan type,External credit score 2; External credit score 3; Years in current job,1,0.3333333333333333,1.0
+282173,External credit score 1; External credit score 3; Occupation,External credit score 3; Loan annuity (repayment per period); Occupation,2,0.6666666666666666,1.0
+283534,External credit score 1; Loan type; Occupation,External credit score 1; External credit score 2; External credit score 3,1,0.3333333333333333,1.0
+284809,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+288858,External credit score 1; External credit score 2; External credit score 3,External credit score 2; External credit score 3; Loan amount,2,0.6666666666666666,1.0
+289019,External credit score 1; Loan type; Occupation,External credit score 1; Occupation; Years in current job,2,0.6666666666666666,1.0
+289035,External credit score 1; External credit score 2; Loan type,External credit score 2; External credit score 3; Loan type,2,0.6666666666666666,1.0
+290061,External credit score 1; External credit score 2; External credit score 3,External credit score 1; External credit score 2; External credit score 3,3,1.0,1.0
+290993,External credit score 1; External credit score 2; External credit score 3,External credit score 2; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+291228,External credit score 1; External credit score 2; External credit score 3,External credit score 1; External credit score 2; External credit score 3,3,1.0,1.0
+291633,External credit score 1; External credit score 3; Loan type,External credit score 2; External credit score 3; Years in current job,1,0.3333333333333333,1.0
+293868,External credit score 1; External credit score 2; Loan type,Education level; External credit score 2; Social circle: defaults 30 days past due,1,0.3333333333333333,1.0
+295699,External credit score 2; External credit score 3; Loan type,External credit score 1; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+295963,External credit score 2; External credit score 3; Loan type,External credit score 1; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+296691,External credit score 1; Loan type; Occupation,External credit score 1; Occupation; Rating of applicant's region,2,0.6666666666666666,1.0
+298120,External credit score 1; External credit score 2; Loan type,External credit score 2; External credit score 3; Occupation,1,0.3333333333333333,1.0
+300372,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+303390,External credit score 1; External credit score 2; Loan type,External credit score 1; External credit score 2; Occupation,2,0.6666666666666666,1.0
+303396,External credit score 1; External credit score 3; Loan type,Education level; External credit score 3; Loan amount,1,0.3333333333333333,1.0
+303956,External credit score 1; External credit score 3; Occupation,External credit score 3; Family size; Number of children,1,0.3333333333333333,1.0
+306052,External credit score 1; External credit score 2; Loan type,External credit score 2; Occupation; Years in current job,1,0.3333333333333333,1.0
+309758,External credit score 1; External credit score 2; External credit score 3,External credit score 2; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+310188,External credit score 1; External credit score 2; External credit score 3,External credit score 2; External credit score 3; Loan annuity (repayment per period),2,0.6666666666666666,1.0
+311438,External credit score 1; External credit score 3; Loan type,External credit score 3; Loan amount; Years in current job,1,0.3333333333333333,1.0
+311925,External credit score 1; External credit score 3; Loan type,External credit score 2; Loan type; Years in current job,1,0.3333333333333333,1.0
+312161,External credit score 1; External credit score 3; Loan type,External credit score 2; External credit score 3; Occupation,1,0.3333333333333333,1.0
+312514,External credit score 1; External credit score 2; Loan type,External credit score 1; External credit score 2; Loan amount,2,0.6666666666666666,1.0
+313121,External credit score 1; External credit score 2; Loan type,External credit score 2; Loan annuity (repayment per period); Occupation,1,0.3333333333333333,1.0
+313471,External credit score 2; External credit score 3; Loan type,External credit score 1; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+313595,External credit score 1; External credit score 2; External credit score 3,External credit score 2; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+314751,External credit score 1; External credit score 3; Loan type,External credit score 1; External credit score 3; Housing type,2,0.6666666666666666,1.0
+316664,External credit score 1; External credit score 2; External credit score 3,External credit score 1; External credit score 2; External credit score 3,3,1.0,1.0
+317492,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Occupation,2,0.6666666666666666,1.0
+318983,External credit score 1; Loan type; Social circle: defaults 30 days past due,External credit score 1; External credit score 3; Years in current job,1,0.3333333333333333,1.0
+319405,External credit score 1; External credit score 2; Loan type,External credit score 2; External credit score 3; Years in current job,1,0.3333333333333333,1.0
+319438,External credit score 1; External credit score 2; External credit score 3,External credit score 1; External credit score 2; External credit score 3,3,1.0,1.0
+321106,External credit score 1; External credit score 2; Loan type,External credit score 2; External credit score 3; Years in current job,1,0.3333333333333333,1.0
+323741,External credit score 1; External credit score 3; Loan type,External credit score 1; External credit score 3; Owns a car,2,0.6666666666666666,1.0
+324112,External credit score 1; External credit score 3; Loan type,External credit score 2; External credit score 3; Loan annuity (repayment per period),1,0.3333333333333333,1.0
+325138,External credit score 1; External credit score 2; Loan type,External credit score 2; Family status; Years in current job,1,0.3333333333333333,1.0
+325456,External credit score 1; External credit score 3; Loan type,Education level; External credit score 3; Loan amount,1,0.3333333333333333,1.0
+325507,External credit score 1; External credit score 2; Loan type,External credit score 2; Occupation; Years in current job,1,0.3333333333333333,1.0
+327330,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Occupation,2,0.6666666666666666,1.0
+328089,External credit score 1; External credit score 2; External credit score 3,External credit score 2; External credit score 3; Occupation,2,0.6666666666666666,1.0
+328412,External credit score 1; External credit score 3; Loan type,External credit score 1; External credit score 3; Loan amount,2,0.6666666666666666,1.0
+328645,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+328731,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Loan amount,2,0.6666666666666666,1.0
+329023,External credit score 1; External credit score 3; Loan type,Applicant age (years); External credit score 3; Years in current job,1,0.3333333333333333,1.0
+330109,External credit score 2; External credit score 3; Loan type,External credit score 1; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+330889,External credit score 1; External credit score 2; Loan type,External credit score 2; Loan amount; Loan annuity (repayment per period),1,0.3333333333333333,1.0
+331463,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Loan amount,2,0.6666666666666666,1.0
+334322,External credit score 1; External credit score 2; External credit score 3,External credit score 1; External credit score 2; External credit score 3,3,1.0,1.0
+334854,External credit score 1; External credit score 2; Loan type,External credit score 1; External credit score 2; Occupation,2,0.6666666666666666,1.0
+335146,External credit score 2; Loan type; Occupation,External credit score 2; Loan amount; Occupation,2,0.6666666666666666,1.0
+335990,External credit score 1; External credit score 3; Loan type,Applicant age (years); External credit score 1; External credit score 3,2,0.6666666666666666,1.0
+337470,External credit score 1; Loan type; Years in current job,Credit bureau enquiries (last year); External credit score 1; Social circle: defaults 30 days past due,1,0.3333333333333333,1.0
+338321,External credit score 1; External credit score 3; Loan type,External credit score 2; External credit score 3; Loan amount,1,0.3333333333333333,1.0
+338513,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+338745,External credit score 1; External credit score 2; Loan type,External credit score 1; External credit score 2; Loan annuity (repayment per period),2,0.6666666666666666,1.0
+341262,External credit score 1; Loan type; Social circle: defaults 30 days past due,Credit bureau enquiries (last year); External credit score 1; Social circle: defaults 30 days past due,2,0.6666666666666666,1.0
+342654,External credit score 1; External credit score 3; Loan type,External credit score 2; External credit score 3; Occupation,1,0.3333333333333333,1.0
+343610,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+343809,External credit score 1; External credit score 2; External credit score 3,External credit score 2; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+344920,External credit score 1; External credit score 3; Loan type,External credit score 3; Loan amount; Social circle: defaults 30 days past due,1,0.3333333333333333,1.0
+344992,External credit score 1; External credit score 3; Loan type,External credit score 2; External credit score 3; Years in current job,1,0.3333333333333333,1.0
+346717,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Loan type,3,1.0,1.0
+347028,External credit score 1; External credit score 3; Loan type,External credit score 2; External credit score 3; Occupation,1,0.3333333333333333,1.0
+347606,External credit score 2; External credit score 3; Loan type,External credit score 1; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+348138,External credit score 1; External credit score 3; Loan type,External credit score 1; External credit score 3; Loan amount,2,0.6666666666666666,1.0
+348193,External credit score 1; External credit score 3; Loan type,External credit score 2; External credit score 3; Years in current job,1,0.3333333333333333,1.0
+349230,External credit score 1; External credit score 2; External credit score 3,External credit score 2; External credit score 3; Occupation,2,0.6666666666666666,1.0
+351782,External credit score 1; External credit score 2; Loan type,External credit score 2; Occupation; Social circle: defaults 30 days past due,1,0.3333333333333333,1.0
+353992,External credit score 1; External credit score 3; Loan type,Education level; External credit score 3; Social circle: defaults 30 days past due,1,0.3333333333333333,1.0
+354196,External credit score 2; External credit score 3; Loan type,External credit score 1; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+358966,External credit score 1; External credit score 2; External credit score 3,External credit score 2; External credit score 3; Loan type,2,0.6666666666666666,1.0
+360991,External credit score 1; External credit score 2; External credit score 3,External credit score 1; External credit score 2; External credit score 3,3,1.0,1.0
+361712,External credit score 2; External credit score 3; Loan type,External credit score 1; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+362798,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Loan type,3,1.0,1.0
+362978,External credit score 1; External credit score 2; External credit score 3,External credit score 2; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+365126,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+367268,External credit score 1; External credit score 3; Loan type,Annual income; Education level; External credit score 3,1,0.3333333333333333,1.0
+367319,External credit score 1; External credit score 3; Loan type,External credit score 3; Loan amount; Years in current job,1,0.3333333333333333,1.0
+367349,External credit score 1; External credit score 3; Loan type,External credit score 3; Loan annuity (repayment per period); Years in current job,1,0.3333333333333333,1.0
+368745,External credit score 1; External credit score 3; Loan type,External credit score 1; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+369741,External credit score 1; External credit score 2; Loan type,External credit score 2; Loan amount; Years in current job,1,0.3333333333333333,1.0
+371043,External credit score 1; External credit score 3; Loan type,External credit score 3; Occupation; Years in current job,1,0.3333333333333333,1.0
+375637,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Occupation,2,0.6666666666666666,1.0
+376872,External credit score 2; External credit score 3; Loan type,External credit score 1; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+376936,External credit score 1; External credit score 2; External credit score 3,External credit score 2; External credit score 3; Social circle: defaults 30 days past due,2,0.6666666666666666,1.0
+377075,External credit score 1; External credit score 3; Loan type,External credit score 2; External credit score 3; Years in current job,1,0.3333333333333333,1.0
+378487,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Occupation,2,0.6666666666666666,1.0
+378579,External credit score 1; External credit score 2; Loan type,External credit score 1; External credit score 2; Loan amount,2,0.6666666666666666,1.0
+379271,External credit score 1; External credit score 2; Loan type,External credit score 2; External credit score 3; Occupation,1,0.3333333333333333,1.0
+379644,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Occupation,2,0.6666666666666666,1.0
+379652,External credit score 1; External credit score 2; External credit score 3,External credit score 1; External credit score 2; External credit score 3,3,1.0,1.0
+379738,External credit score 1; External credit score 3; Loan type,External credit score 2; External credit score 3; Social circle: defaults 30 days past due,1,0.3333333333333333,1.0
+381213,External credit score 1; External credit score 3; Loan type,External credit score 1; External credit score 3; Occupation,2,0.6666666666666666,1.0
+385815,External credit score 1; External credit score 2; Loan type,External credit score 1; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+386084,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+389851,External credit score 1; Loan type; Years in current job,External credit score 1; External credit score 2; Years in current job,2,0.6666666666666666,1.0
+393549,External credit score 1; External credit score 3; Loan type,Applicant age (years); External credit score 1; External credit score 2,1,0.3333333333333333,1.0
+401385,External credit score 1; External credit score 2; Loan type,External credit score 2; External credit score 3; Years in current job,1,0.3333333333333333,1.0
+401749,External credit score 2; External credit score 3; Loan type,External credit score 1; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+403627,External credit score 1; External credit score 3; Loan type,External credit score 3; Loan amount; Social circle: defaults 30 days past due,1,0.3333333333333333,1.0
+405393,External credit score 1; External credit score 2; Loan type,External credit score 1; External credit score 2; Years in current job,2,0.6666666666666666,1.0
+406702,External credit score 2; External credit score 3; Loan type,External credit score 1; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+407456,External credit score 1; External credit score 2; Loan type,External credit score 2; External credit score 3; Years in current job,1,0.3333333333333333,1.0
+408004,External credit score 1; Loan type; Social circle: defaults 30 days past due,Loan amount; Loan annuity (repayment per period); Occupation,0,0.0,
+409321,External credit score 1; External credit score 2; Loan type,Credit bureau enquiries (last year); Loan amount; Loan-to-income ratio,0,0.0,
+409487,External credit score 1; External credit score 3; Loan type,External credit score 3; Occupation; Years in current job,1,0.3333333333333333,1.0
+410398,External credit score 2; External credit score 3; Loan type,External credit score 1; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+410400,External credit score 1; External credit score 2; External credit score 3,External credit score 1; External credit score 2; External credit score 3,3,1.0,1.0
+410477,External credit score 2; External credit score 3; Loan type,Education level; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+411548,External credit score 1; External credit score 2; Loan type,External credit score 1; External credit score 2; Occupation,2,0.6666666666666666,1.0
+412894,External credit score 1; External credit score 3; Loan type,External credit score 3; Loan amount; Repayment-to-income ratio,1,0.3333333333333333,1.0
+413365,External credit score 1; External credit score 3; Loan type,External credit score 2; External credit score 3; Owns a car,1,0.3333333333333333,1.0
+414242,External credit score 1; External credit score 2; Loan type,External credit score 2; Occupation; Years in current job,1,0.3333333333333333,1.0
+416073,External credit score 1; External credit score 3; Loan type,Education level; External credit score 3; Loan amount,1,0.3333333333333333,1.0
+417813,External credit score 1; External credit score 3; Loan type,Education level; External credit score 3; Owns a car,1,0.3333333333333333,1.0
+418547,External credit score 1; External credit score 2; Loan type,External credit score 1; External credit score 2; Loan annuity (repayment per period),2,0.6666666666666666,1.0
+418928,External credit score 1; External credit score 3; Loan type,External credit score 3; Loan amount; Years in current job,1,0.3333333333333333,1.0
+419987,External credit score 1; External credit score 2; Loan type,External credit score 2; External credit score 3; Rating of applicant's region,1,0.3333333333333333,1.0
+421899,External credit score 2; External credit score 3; Loan type,External credit score 1; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+426137,External credit score 1; External credit score 2; Loan type,External credit score 2; Occupation; Social circle: defaults 30 days past due,1,0.3333333333333333,1.0
+426340,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+426751,External credit score 1; Loan type; Occupation,External credit score 1; Occupation; Years in current job,2,0.6666666666666666,1.0
+427423,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Social circle: defaults 30 days past due,2,0.6666666666666666,1.0
+427431,External credit score 1; External credit score 2; External credit score 3,External credit score 2; External credit score 3; Loan type,2,0.6666666666666666,1.0
+429211,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+429884,External credit score 1; External credit score 2; External credit score 3,External credit score 2; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+430871,External credit score 1; Loan type; Occupation,External credit score 1; Occupation; Years in current job,2,0.6666666666666666,1.0
+436199,External credit score 1; External credit score 3; Loan type,External credit score 1; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+436288,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+438866,External credit score 1; External credit score 2; Loan type,External credit score 1; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+439434,External credit score 1; External credit score 2; Loan type,Credit bureau enquiries (last year); External credit score 2; External credit score 3,1,0.3333333333333333,1.0
+440625,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Loan amount,2,0.6666666666666666,1.0
+443179,External credit score 1; External credit score 2; External credit score 3,External credit score 1; External credit score 2; External credit score 3,3,1.0,1.0
+443562,External credit score 1; External credit score 2; External credit score 3,External credit score 2; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+444244,External credit score 1; External credit score 3; Loan type,External credit score 2; External credit score 3; Occupation,1,0.3333333333333333,1.0
+444264,External credit score 1; External credit score 2; Loan type,External credit score 2; External credit score 3; Years in current job,1,0.3333333333333333,1.0
+445933,External credit score 2; External credit score 3; Loan type,External credit score 2; External credit score 3; Years in current job,2,0.6666666666666666,1.0
+446985,External credit score 2; External credit score 3; Loan type,Education level; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+450974,External credit score 1; External credit score 3; Loan type,External credit score 1; External credit score 3; Occupation,2,0.6666666666666666,1.0
+451143,External credit score 1; External credit score 3; Loan type,External credit score 1; External credit score 3; Occupation,2,0.6666666666666666,0.5
+452105,External credit score 2; External credit score 3; Loan type,External credit score 1; External credit score 2; External credit score 3,2,0.6666666666666666,1.0
+452976,External credit score 1; External credit score 2; Loan type,External credit score 2; Occupation; Years in current job,1,0.3333333333333333,1.0
+453772,External credit score 1; External credit score 2; Loan type,External credit score 2; Occupation; Years in current job,1,0.3333333333333333,1.0
+454438,External credit score 1; External credit score 3; Loan type,External credit score 3; Loan annuity (repayment per period); Years in current job,1,0.3333333333333333,1.0
+456034,External credit score 1; External credit score 2; Loan type,External credit score 2; External credit score 3; Years in current job,1,0.3333333333333333,1.0

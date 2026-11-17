@@ -1,0 +1,22 @@
+feature,named_by_shap_top3,named_by_lime_top3,named_by_both,lime_only,shap_only
+External credit score 3,230,205,200,5,30
+External credit score 2,228,201,200,1,28
+External credit score 1,120,222,93,129,27
+Years in current job,96,2,1,1,95
+Occupation,62,19,13,6,49
+Loan amount,40,0,0,0,40
+Social circle: defaults 30 days past due,24,3,1,2,23
+Loan annuity (repayment per period),21,1,0,1,21
+Applicant age (years),18,0,0,0,18
+Education level,16,0,0,0,16
+Loan type,10,247,7,240,3
+Credit bureau enquiries (last year),9,0,0,0,9
+Rating of applicant's region,6,0,0,0,6
+Owns a car,6,0,0,0,6
+Repayment-to-income ratio,4,0,0,0,4
+Annual income,2,0,0,0,2
+Family status,2,0,0,0,2
+Loan-to-income ratio,2,0,0,0,2
+Housing type,2,0,0,0,2
+Family size,1,0,0,0,1
+Number of children,1,0,0,0,1
