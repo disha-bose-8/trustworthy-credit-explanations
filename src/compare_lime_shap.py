@@ -1,4 +1,4 @@
-%%writefile src/compare_lime_shap.py
+
 """Compare LIME's top-3 features with SHAP's top-3 (the ground truth) for the 300 applicants.
 
 Run from the repo root, after src.lime_explain:  python -m src.compare_lime_shap
