@@ -1,0 +1,901 @@
+applicant_id,rank,feature,lime_weight,direction
+260922,1,External credit score 3,0.0718,increases risk
+260922,2,External credit score 2,0.0407,increases risk
+260922,3,External credit score 1,0.0268,increases risk
+208710,1,External credit score 2,0.0421,increases risk
+208710,2,Loan type,0.0254,increases risk
+208710,3,External credit score 1,0.0237,increases risk
+240055,1,External credit score 2,0.0385,increases risk
+240055,2,External credit score 1,0.0268,increases risk
+240055,3,Loan type,0.0247,increases risk
+429884,1,External credit score 2,0.042,increases risk
+429884,2,External credit score 3,-0.039,decreases risk
+429884,3,External credit score 1,0.0258,increases risk
+104807,1,External credit score 3,0.0706,increases risk
+104807,2,Loan type,0.0254,increases risk
+104807,3,External credit score 1,0.0247,increases risk
+348193,1,External credit score 3,0.0695,increases risk
+348193,2,Loan type,0.0257,increases risk
+348193,3,External credit score 1,0.0243,increases risk
+331463,1,External credit score 3,0.0721,increases risk
+331463,2,External credit score 2,0.0412,increases risk
+331463,3,Loan type,0.0253,increases risk
+148331,1,External credit score 3,0.0688,increases risk
+148331,2,External credit score 2,0.0408,increases risk
+148331,3,Loan type,0.0271,increases risk
+237021,1,External credit score 2,0.0466,increases risk
+237021,2,Loan type,0.0248,increases risk
+237021,3,External credit score 1,0.0225,increases risk
+227999,1,External credit score 2,0.0456,increases risk
+227999,2,Loan type,0.0284,increases risk
+227999,3,External credit score 1,0.0239,increases risk
+220410,1,External credit score 2,0.0443,increases risk
+220410,2,External credit score 1,0.0267,increases risk
+220410,3,Loan type,0.0262,increases risk
+303956,1,External credit score 3,0.0709,increases risk
+303956,2,External credit score 1,0.028,increases risk
+303956,3,Occupation,0.0246,increases risk
+107905,1,External credit score 2,0.0419,increases risk
+107905,2,Occupation,0.0353,increases risk
+107905,3,External credit score 1,0.0287,increases risk
+325456,1,External credit score 3,0.0685,increases risk
+325456,2,External credit score 1,0.0274,increases risk
+325456,3,Loan type,0.0261,increases risk
+206340,1,External credit score 3,0.0703,increases risk
+206340,2,External credit score 2,0.0446,increases risk
+206340,3,Loan type,0.0253,increases risk
+343610,1,External credit score 3,0.069,increases risk
+343610,2,External credit score 2,0.0426,increases risk
+343610,3,Loan type,0.0263,increases risk
+337470,1,Loan type,0.0284,increases risk
+337470,2,External credit score 1,0.0251,increases risk
+337470,3,Years in current job,0.0125,increases risk
+403627,1,External credit score 3,0.0734,increases risk
+403627,2,Loan type,0.0246,increases risk
+403627,3,External credit score 1,0.0234,increases risk
+265601,1,External credit score 3,0.0689,increases risk
+265601,2,External credit score 1,0.0264,increases risk
+265601,3,Loan type,0.0253,increases risk
+236438,1,External credit score 3,0.0713,increases risk
+236438,2,Loan type,0.0278,increases risk
+236438,3,External credit score 1,0.0249,increases risk
+131928,1,External credit score 3,0.0686,increases risk
+131928,2,External credit score 2,0.0426,increases risk
+131928,3,External credit score 1,0.0256,increases risk
+300372,1,External credit score 3,0.0683,increases risk
+300372,2,External credit score 2,0.0403,increases risk
+300372,3,Loan type,0.0284,increases risk
+213488,1,External credit score 3,0.0724,increases risk
+213488,2,External credit score 2,0.0423,increases risk
+213488,3,Loan type,0.0242,increases risk
+242684,1,External credit score 3,0.0701,increases risk
+242684,2,External credit score 2,0.0423,increases risk
+242684,3,External credit score 1,0.0259,increases risk
+309758,1,External credit score 3,0.0677,increases risk
+309758,2,External credit score 2,-0.0343,decreases risk
+309758,3,External credit score 1,0.0256,increases risk
+277490,1,External credit score 3,0.0688,increases risk
+277490,2,External credit score 2,0.0442,increases risk
+277490,3,External credit score 1,-0.027,decreases risk
+248118,1,External credit score 3,0.0724,increases risk
+248118,2,External credit score 2,0.0402,increases risk
+248118,3,External credit score 1,0.0271,increases risk
+371043,1,External credit score 3,0.0703,increases risk
+371043,2,Loan type,0.0279,increases risk
+371043,3,External credit score 1,0.0277,increases risk
+410477,1,External credit score 3,0.0704,increases risk
+410477,2,External credit score 2,0.0435,increases risk
+410477,3,Loan type,0.0263,increases risk
+438866,1,External credit score 2,0.0414,increases risk
+438866,2,Loan type,0.0254,increases risk
+438866,3,External credit score 1,0.0238,increases risk
+406702,1,External credit score 3,0.0707,increases risk
+406702,2,External credit score 2,0.0406,increases risk
+406702,3,Loan type,0.0241,increases risk
+127545,1,External credit score 1,0.0266,increases risk
+127545,2,Loan type,0.0263,increases risk
+127545,3,External credit score 3,-0.0142,decreases risk
+410400,1,External credit score 3,0.0706,increases risk
+410400,2,External credit score 2,0.0399,increases risk
+410400,3,External credit score 1,0.0269,increases risk
+312161,1,External credit score 3,0.0679,increases risk
+312161,2,Loan type,0.025,increases risk
+312161,3,External credit score 1,0.0228,increases risk
+117078,1,External credit score 2,0.0388,increases risk
+117078,2,Occupation,0.0286,increases risk
+117078,3,Loan type,0.026,increases risk
+201134,1,External credit score 3,0.0717,increases risk
+201134,2,Loan type,0.0284,increases risk
+201134,3,External credit score 1,0.025,increases risk
+122297,1,External credit score 3,0.0702,increases risk
+122297,2,Loan type,0.0286,increases risk
+122297,3,External credit score 1,0.0261,increases risk
+123778,1,External credit score 3,0.0694,increases risk
+123778,2,Loan type,0.0267,increases risk
+123778,3,External credit score 1,0.0266,increases risk
+293868,1,External credit score 2,0.0418,increases risk
+293868,2,External credit score 1,0.0277,increases risk
+293868,3,Loan type,0.0262,increases risk
+303396,1,External credit score 3,0.0689,increases risk
+303396,2,External credit score 1,0.0275,increases risk
+303396,3,Loan type,0.0229,increases risk
+451143,1,Loan type,0.0269,increases risk
+451143,2,External credit score 1,0.0218,increases risk
+451143,3,External credit score 3,-0.0117,decreases risk
+353992,1,External credit score 3,0.07,increases risk
+353992,2,Loan type,0.0262,increases risk
+353992,3,External credit score 1,0.0248,increases risk
+381213,1,External credit score 3,0.0714,increases risk
+381213,2,Loan type,0.0275,increases risk
+381213,3,External credit score 1,0.0259,increases risk
+409487,1,External credit score 3,0.068,increases risk
+409487,2,Loan type,0.0257,increases risk
+409487,3,External credit score 1,0.0252,increases risk
+222609,1,External credit score 3,0.074,increases risk
+222609,2,External credit score 1,0.0265,increases risk
+222609,3,Loan type,0.0263,increases risk
+257702,1,External credit score 3,0.0706,increases risk
+257702,2,Loan type,0.0266,increases risk
+257702,3,External credit score 1,0.0253,increases risk
+306052,1,External credit score 2,0.0428,increases risk
+306052,2,External credit score 1,0.026,increases risk
+306052,3,Loan type,0.0253,increases risk
+194321,1,External credit score 3,0.0716,increases risk
+194321,2,External credit score 1,0.0253,increases risk
+194321,3,Loan type,0.0251,increases risk
+243660,1,External credit score 3,0.0714,increases risk
+243660,2,External credit score 2,0.044,increases risk
+243660,3,External credit score 1,0.028,increases risk
+249535,1,External credit score 2,0.0421,increases risk
+249535,2,Loan type,0.028,increases risk
+249535,3,External credit score 1,0.0246,increases risk
+193595,1,External credit score 3,0.0716,increases risk
+193595,2,External credit score 1,-0.0251,decreases risk
+193595,3,Loan type,0.0227,increases risk
+401385,1,External credit score 2,0.041,increases risk
+401385,2,Loan type,0.0258,increases risk
+401385,3,External credit score 1,0.0236,increases risk
+310188,1,External credit score 3,0.0733,increases risk
+310188,2,External credit score 2,0.0401,increases risk
+310188,3,External credit score 1,0.0266,increases risk
+200303,1,External credit score 3,0.0697,increases risk
+200303,2,External credit score 1,0.026,increases risk
+200303,3,Loan type,0.0249,increases risk
+259067,1,External credit score 3,0.0692,increases risk
+259067,2,External credit score 2,0.0394,increases risk
+259067,3,External credit score 1,0.0251,increases risk
+225386,1,External credit score 2,0.0436,increases risk
+225386,2,Loan type,0.0253,increases risk
+225386,3,External credit score 1,0.0241,increases risk
+414242,1,External credit score 2,0.0435,increases risk
+414242,2,External credit score 1,0.025,increases risk
+414242,3,Loan type,0.0228,increases risk
+426340,1,External credit score 3,0.0695,increases risk
+426340,2,External credit score 2,0.042,increases risk
+426340,3,Loan type,0.028,increases risk
+139718,1,External credit score 2,0.0413,increases risk
+139718,2,Loan type,0.0254,increases risk
+139718,3,External credit score 1,0.0239,increases risk
+183469,1,External credit score 2,0.0435,increases risk
+183469,2,External credit score 1,0.026,increases risk
+183469,3,Loan type,-0.0241,decreases risk
+232225,1,External credit score 3,0.0698,increases risk
+232225,2,External credit score 2,0.043,increases risk
+232225,3,External credit score 1,0.0246,increases risk
+334322,1,External credit score 3,0.0681,increases risk
+334322,2,External credit score 2,0.0394,increases risk
+334322,3,External credit score 1,0.0263,increases risk
+230816,1,External credit score 3,0.0672,increases risk
+230816,2,External credit score 2,0.0407,increases risk
+230816,3,Loan type,0.027,increases risk
+443562,1,External credit score 3,0.0685,increases risk
+443562,2,External credit score 2,0.0423,increases risk
+443562,3,External credit score 1,0.0257,increases risk
+104583,1,External credit score 2,0.0437,increases risk
+104583,2,External credit score 1,0.0273,increases risk
+104583,3,Loan type,0.0265,increases risk
+325138,1,External credit score 2,0.0445,increases risk
+325138,2,Loan type,0.0284,increases risk
+325138,3,External credit score 1,0.0259,increases risk
+271642,1,External credit score 2,0.0432,increases risk
+271642,2,Loan type,0.0262,increases risk
+271642,3,External credit score 1,0.0259,increases risk
+258830,1,External credit score 1,0.0267,increases risk
+258830,2,Loan type,0.0234,increases risk
+258830,3,External credit score 3,-0.0119,decreases risk
+405393,1,External credit score 2,0.0445,increases risk
+405393,2,Loan type,0.0286,increases risk
+405393,3,External credit score 1,0.0238,increases risk
+348138,1,External credit score 3,0.0711,increases risk
+348138,2,Loan type,0.0245,increases risk
+348138,3,External credit score 1,-0.0243,decreases risk
+362978,1,External credit score 3,0.0698,increases risk
+362978,2,External credit score 2,0.0415,increases risk
+362978,3,External credit score 1,0.0259,increases risk
+126149,1,External credit score 3,0.071,increases risk
+126149,2,External credit score 2,0.0435,increases risk
+126149,3,Loan type,0.0268,increases risk
+290061,1,External credit score 3,0.0727,increases risk
+290061,2,External credit score 2,0.043,increases risk
+290061,3,External credit score 1,0.0268,increases risk
+386084,1,External credit score 3,0.0694,increases risk
+386084,2,External credit score 2,0.039,increases risk
+386084,3,Loan type,0.028,increases risk
+429211,1,External credit score 3,0.0693,increases risk
+429211,2,External credit score 2,0.0428,increases risk
+429211,3,Loan type,0.0271,increases risk
+137056,1,Loan type,0.0276,increases risk
+137056,2,External credit score 1,0.0239,increases risk
+137056,3,External credit score 3,-0.015,decreases risk
+200622,1,External credit score 2,0.0405,increases risk
+200622,2,External credit score 1,0.0288,increases risk
+200622,3,Loan type,0.0248,increases risk
+291228,1,External credit score 2,0.0433,increases risk
+291228,2,External credit score 3,-0.0236,decreases risk
+291228,3,External credit score 1,0.0235,increases risk
+270505,1,Loan type,0.0248,increases risk
+270505,2,External credit score 1,0.0245,increases risk
+270505,3,Loan annuity (repayment per period),-0.0143,decreases risk
+436288,1,External credit score 3,0.0718,increases risk
+436288,2,External credit score 2,0.0424,increases risk
+436288,3,Loan type,0.0257,increases risk
+376936,1,External credit score 3,0.0698,increases risk
+376936,2,External credit score 2,0.0426,increases risk
+376936,3,External credit score 1,0.0262,increases risk
+338745,1,External credit score 2,0.0434,increases risk
+338745,2,Loan type,0.0289,increases risk
+338745,3,External credit score 1,0.0281,increases risk
+314751,1,External credit score 3,0.0748,increases risk
+314751,2,External credit score 1,0.0277,increases risk
+314751,3,Loan type,0.026,increases risk
+413365,1,External credit score 3,0.0697,increases risk
+413365,2,External credit score 1,0.0245,increases risk
+413365,3,Loan type,0.0244,increases risk
+319405,1,External credit score 2,0.0438,increases risk
+319405,2,Loan type,0.0305,increases risk
+319405,3,External credit score 1,0.026,increases risk
+454438,1,External credit score 3,0.0683,increases risk
+454438,2,Loan type,0.0268,increases risk
+454438,3,External credit score 1,0.0261,increases risk
+170824,1,External credit score 3,0.0718,increases risk
+170824,2,External credit score 2,0.0421,increases risk
+170824,3,Loan type,0.027,increases risk
+255042,1,External credit score 2,0.0413,increases risk
+255042,2,External credit score 1,0.0261,increases risk
+255042,3,Loan type,0.0251,increases risk
+311438,1,External credit score 3,0.07,increases risk
+311438,2,External credit score 1,0.026,increases risk
+311438,3,Loan type,0.0257,increases risk
+109197,1,External credit score 2,0.0416,increases risk
+109197,2,Loan type,0.0246,increases risk
+109197,3,External credit score 1,0.0221,increases risk
+427423,1,External credit score 3,0.0691,increases risk
+427423,2,External credit score 2,0.0409,increases risk
+427423,3,Loan type,0.0262,increases risk
+130492,1,External credit score 2,0.0395,increases risk
+130492,2,Loan type,0.0287,increases risk
+130492,3,External credit score 1,0.0252,increases risk
+291633,1,External credit score 3,0.0714,increases risk
+291633,2,External credit score 1,-0.0271,decreases risk
+291633,3,Loan type,0.0243,increases risk
+159391,1,External credit score 2,0.0378,increases risk
+159391,2,External credit score 1,0.0262,increases risk
+159391,3,Loan type,0.0233,increases risk
+368745,1,External credit score 3,0.0734,increases risk
+368745,2,External credit score 1,0.0274,increases risk
+368745,3,Loan type,0.0251,increases risk
+377075,1,External credit score 3,0.0721,increases risk
+377075,2,Loan type,0.0268,increases risk
+377075,3,External credit score 1,0.0247,increases risk
+343809,1,External credit score 3,0.0716,increases risk
+343809,2,External credit score 2,0.0431,increases risk
+343809,3,External credit score 1,0.0265,increases risk
+139279,1,External credit score 3,0.0683,increases risk
+139279,2,External credit score 2,0.0397,increases risk
+139279,3,External credit score 1,0.0269,increases risk
+117727,1,External credit score 2,0.0447,increases risk
+117727,2,External credit score 1,0.027,increases risk
+117727,3,Loan type,0.0256,increases risk
+139065,1,External credit score 3,0.0685,increases risk
+139065,2,External credit score 2,0.0422,increases risk
+139065,3,Loan type,0.0265,increases risk
+360991,1,External credit score 3,0.0682,increases risk
+360991,2,External credit score 2,0.0426,increases risk
+360991,3,External credit score 1,0.0273,increases risk
+124131,1,External credit score 3,0.0716,increases risk
+124131,2,External credit score 2,-0.0327,decreases risk
+124131,3,External credit score 1,0.0259,increases risk
+137784,1,External credit score 2,0.0425,increases risk
+137784,2,External credit score 1,0.0286,increases risk
+137784,3,Loan type,0.0248,increases risk
+206745,1,External credit score 3,0.0676,increases risk
+206745,2,External credit score 2,0.0421,increases risk
+206745,3,Loan type,0.0264,increases risk
+375637,1,External credit score 3,0.0714,increases risk
+375637,2,External credit score 2,0.0432,increases risk
+375637,3,Loan type,0.0264,increases risk
+117769,1,External credit score 1,0.0274,increases risk
+117769,2,Loan type,0.0256,increases risk
+117769,3,Occupation,0.0194,increases risk
+104106,1,External credit score 3,0.0726,increases risk
+104106,2,External credit score 2,0.0428,increases risk
+104106,3,External credit score 1,0.027,increases risk
+164935,1,External credit score 3,0.0711,increases risk
+164935,2,External credit score 2,0.041,increases risk
+164935,3,Loan type,0.0248,increases risk
+407456,1,External credit score 2,0.0431,increases risk
+407456,2,External credit score 1,0.0261,increases risk
+407456,3,Loan type,0.0256,increases risk
+177533,1,External credit score 2,0.0433,increases risk
+177533,2,Loan type,0.0267,increases risk
+177533,3,External credit score 1,0.0256,increases risk
+159531,1,External credit score 3,0.0706,increases risk
+159531,2,External credit score 2,0.0456,increases risk
+159531,3,Loan type,0.0269,increases risk
+426137,1,External credit score 2,0.0431,increases risk
+426137,2,External credit score 1,0.0257,increases risk
+426137,3,Loan type,0.0254,increases risk
+115629,1,External credit score 1,0.0264,increases risk
+115629,2,Loan type,0.0251,increases risk
+115629,3,Occupation,0.0162,increases risk
+358966,1,External credit score 3,0.0681,increases risk
+358966,2,External credit score 2,0.0456,increases risk
+358966,3,External credit score 1,0.0278,increases risk
+418547,1,External credit score 2,0.0414,increases risk
+418547,2,External credit score 1,0.0285,increases risk
+418547,3,Loan type,0.0256,increases risk
+335990,1,External credit score 3,0.07,increases risk
+335990,2,External credit score 1,0.0254,increases risk
+335990,3,Loan type,0.0253,increases risk
+284809,1,External credit score 3,0.0748,increases risk
+284809,2,External credit score 2,0.0458,increases risk
+284809,3,Loan type,0.0271,increases risk
+175725,1,External credit score 3,0.0694,increases risk
+175725,2,External credit score 2,0.0401,increases risk
+175725,3,External credit score 1,0.0272,increases risk
+165388,1,External credit score 3,0.0725,increases risk
+165388,2,External credit score 2,0.0432,increases risk
+165388,3,Loan type,0.0255,increases risk
+181715,1,External credit score 3,0.0748,increases risk
+181715,2,External credit score 2,0.0413,increases risk
+181715,3,Loan type,0.0269,increases risk
+114232,1,External credit score 3,0.0689,increases risk
+114232,2,External credit score 2,0.0411,increases risk
+114232,3,Loan type,0.0256,increases risk
+325507,1,External credit score 2,0.0418,increases risk
+325507,2,External credit score 1,0.0259,increases risk
+325507,3,Loan type,0.0248,increases risk
+338513,1,External credit score 3,0.0708,increases risk
+338513,2,External credit score 2,0.0445,increases risk
+338513,3,Loan type,0.0267,increases risk
+379738,1,External credit score 3,0.071,increases risk
+379738,2,Loan type,0.0284,increases risk
+379738,3,External credit score 1,0.0245,increases risk
+241690,1,External credit score 3,0.0711,increases risk
+241690,2,External credit score 2,0.0398,increases risk
+241690,3,Loan type,0.0258,increases risk
+193852,1,External credit score 3,0.0704,increases risk
+193852,2,Loan type,0.0273,increases risk
+193852,3,External credit score 1,0.0265,increases risk
+445933,1,External credit score 3,0.069,increases risk
+445933,2,External credit score 2,0.0417,increases risk
+445933,3,Loan type,0.0263,increases risk
+149201,1,External credit score 3,0.0705,increases risk
+149201,2,External credit score 2,0.0394,increases risk
+149201,3,Loan type,0.0267,increases risk
+104971,1,External credit score 2,0.0437,increases risk
+104971,2,External credit score 1,0.0271,increases risk
+104971,3,Loan type,0.0253,increases risk
+269846,1,External credit score 3,0.0705,increases risk
+269846,2,Loan type,0.0273,increases risk
+269846,3,External credit score 1,0.0246,increases risk
+263853,1,External credit score 2,0.0469,increases risk
+263853,2,Loan type,0.027,increases risk
+263853,3,External credit score 1,0.0245,increases risk
+157707,1,External credit score 2,0.0479,increases risk
+157707,2,External credit score 3,-0.0403,decreases risk
+157707,3,External credit score 1,0.0292,increases risk
+344992,1,External credit score 3,0.0718,increases risk
+344992,2,Loan type,0.0276,increases risk
+344992,3,External credit score 1,0.0274,increases risk
+444244,1,External credit score 3,0.0726,increases risk
+444244,2,Loan type,0.0278,increases risk
+444244,3,External credit score 1,0.0265,increases risk
+210431,1,External credit score 2,0.0405,increases risk
+210431,2,Loan type,0.0254,increases risk
+210431,3,External credit score 1,0.0253,increases risk
+367268,1,External credit score 3,0.0694,increases risk
+367268,2,Loan type,0.0251,increases risk
+367268,3,External credit score 1,0.0242,increases risk
+235923,1,External credit score 2,0.0426,increases risk
+235923,2,Loan type,0.0245,increases risk
+235923,3,External credit score 1,0.0241,increases risk
+319438,1,External credit score 3,0.0733,increases risk
+319438,2,External credit score 2,0.0436,increases risk
+319438,3,External credit score 1,0.0275,increases risk
+225785,1,External credit score 3,0.0672,increases risk
+225785,2,External credit score 2,0.0422,increases risk
+225785,3,Loan type,0.0254,increases risk
+224961,1,External credit score 1,0.0255,increases risk
+224961,2,Loan type,0.0233,increases risk
+224961,3,Occupation,0.0189,increases risk
+295963,1,External credit score 2,0.0442,increases risk
+295963,2,External credit score 3,-0.0408,decreases risk
+295963,3,Loan type,0.0267,increases risk
+209246,1,External credit score 2,0.0407,increases risk
+209246,2,Loan type,0.0255,increases risk
+209246,3,External credit score 1,0.024,increases risk
+269349,1,External credit score 3,0.0698,increases risk
+269349,2,External credit score 2,0.0422,increases risk
+269349,3,Loan type,0.0264,increases risk
+410398,1,External credit score 3,0.0688,increases risk
+410398,2,External credit score 2,0.0399,increases risk
+410398,3,Loan type,0.0277,increases risk
+175196,1,External credit score 3,0.0692,increases risk
+175196,2,External credit score 2,0.0424,increases risk
+175196,3,Loan type,0.0274,increases risk
+249047,1,External credit score 2,0.0412,increases risk
+249047,2,External credit score 1,0.0243,increases risk
+249047,3,Loan type,0.0238,increases risk
+328089,1,External credit score 3,0.0689,increases risk
+328089,2,External credit score 2,0.0424,increases risk
+328089,3,External credit score 1,0.0284,increases risk
+288858,1,External credit score 3,0.0684,increases risk
+288858,2,External credit score 2,0.0431,increases risk
+288858,3,External credit score 1,0.0252,increases risk
+146230,1,External credit score 3,0.0694,increases risk
+146230,2,External credit score 1,0.0274,increases risk
+146230,3,Loan type,0.0273,increases risk
+421899,1,External credit score 3,0.0722,increases risk
+421899,2,External credit score 2,0.0427,increases risk
+421899,3,Loan type,0.027,increases risk
+439434,1,External credit score 2,0.0442,increases risk
+439434,2,Loan type,0.0275,increases risk
+439434,3,External credit score 1,0.0234,increases risk
+290993,1,External credit score 2,0.0388,increases risk
+290993,2,External credit score 1,0.0271,increases risk
+290993,3,External credit score 3,-0.0261,decreases risk
+227814,1,Loan type,0.025,increases risk
+227814,2,External credit score 1,0.0247,increases risk
+227814,3,Occupation,-0.0149,decreases risk
+263050,1,External credit score 3,0.0695,increases risk
+263050,2,External credit score 1,0.0265,increases risk
+263050,3,Loan type,0.026,increases risk
+453772,1,External credit score 2,0.0417,increases risk
+453772,2,Loan type,0.0266,increases risk
+453772,3,External credit score 1,0.0248,increases risk
+379652,1,External credit score 3,0.0694,increases risk
+379652,2,External credit score 2,0.0406,increases risk
+379652,3,External credit score 1,-0.0243,decreases risk
+263023,1,External credit score 3,0.0694,increases risk
+263023,2,External credit score 2,0.0445,increases risk
+263023,3,Loan type,0.0256,increases risk
+296691,1,External credit score 1,0.0256,increases risk
+296691,2,Occupation,0.0253,increases risk
+296691,3,Loan type,0.0227,increases risk
+430871,1,Loan type,0.0279,increases risk
+430871,2,External credit score 1,0.0277,increases risk
+430871,3,Occupation,0.0131,increases risk
+327330,1,External credit score 3,0.0707,increases risk
+327330,2,External credit score 2,0.0422,increases risk
+327330,3,Loan type,0.0257,increases risk
+341262,1,Loan type,0.0275,increases risk
+341262,2,External credit score 1,0.0238,increases risk
+341262,3,Social circle: defaults 30 days past due,0.0172,increases risk
+436199,1,External credit score 3,0.066,increases risk
+436199,2,Loan type,0.0238,increases risk
+436199,3,External credit score 1,0.0238,increases risk
+254594,1,External credit score 2,0.0415,increases risk
+254594,2,Loan type,0.0283,increases risk
+254594,3,External credit score 1,0.0261,increases risk
+289019,1,Occupation,0.0271,increases risk
+289019,2,External credit score 1,0.025,increases risk
+289019,3,Loan type,0.0249,increases risk
+328731,1,External credit score 3,0.0707,increases risk
+328731,2,External credit score 2,0.0413,increases risk
+328731,3,Loan type,0.0278,increases risk
+376872,1,External credit score 3,0.0689,increases risk
+376872,2,External credit score 2,0.0406,increases risk
+376872,3,Loan type,0.0254,increases risk
+239246,1,External credit score 3,0.0662,increases risk
+239246,2,External credit score 2,0.0416,increases risk
+239246,3,Loan type,0.0284,increases risk
+202106,1,External credit score 3,0.0722,increases risk
+202106,2,External credit score 1,0.0276,increases risk
+202106,3,Loan type,0.0264,increases risk
+279812,1,External credit score 3,0.0722,increases risk
+279812,2,External credit score 1,0.0268,increases risk
+279812,3,Loan type,0.024,increases risk
+318983,1,Loan type,0.0268,increases risk
+318983,2,External credit score 1,0.0254,increases risk
+318983,3,Social circle: defaults 30 days past due,-0.0142,decreases risk
+321106,1,External credit score 2,0.0446,increases risk
+321106,2,Loan type,0.0271,increases risk
+321106,3,External credit score 1,0.0249,increases risk
+362798,1,External credit score 3,0.0718,increases risk
+362798,2,External credit score 2,0.0427,increases risk
+362798,3,Loan type,-0.0254,decreases risk
+330109,1,External credit score 3,0.069,increases risk
+330109,2,External credit score 2,0.0405,increases risk
+330109,3,Loan type,0.0263,increases risk
+444264,1,External credit score 2,0.041,increases risk
+444264,2,Loan type,0.0273,increases risk
+444264,3,External credit score 1,0.0267,increases risk
+117926,1,External credit score 2,0.0455,increases risk
+117926,2,Loan type,0.0259,increases risk
+117926,3,External credit score 1,0.022,increases risk
+207366,1,External credit score 3,0.0709,increases risk
+207366,2,External credit score 2,0.0414,increases risk
+207366,3,External credit score 1,0.026,increases risk
+163047,1,External credit score 3,0.0696,increases risk
+163047,2,External credit score 2,0.0405,increases risk
+163047,3,Loan type,0.0263,increases risk
+401749,1,External credit score 3,0.0721,increases risk
+401749,2,External credit score 2,0.0425,increases risk
+401749,3,Loan type,0.0274,increases risk
+259686,1,External credit score 3,0.0666,increases risk
+259686,2,Loan type,0.0242,increases risk
+259686,3,External credit score 1,0.0232,increases risk
+203374,1,External credit score 3,0.0693,increases risk
+203374,2,External credit score 2,0.0433,increases risk
+203374,3,Loan type,0.0264,increases risk
+218425,1,External credit score 3,0.0713,increases risk
+218425,2,External credit score 2,0.0412,increases risk
+218425,3,Loan type,0.0278,increases risk
+298120,1,External credit score 2,0.0427,increases risk
+298120,2,External credit score 1,0.0279,increases risk
+298120,3,Loan type,0.0245,increases risk
+223805,1,External credit score 3,0.0685,increases risk
+223805,2,External credit score 2,0.0399,increases risk
+223805,3,Loan type,0.0256,increases risk
+289035,1,External credit score 2,0.0386,increases risk
+289035,2,External credit score 1,0.0285,increases risk
+289035,3,Loan type,-0.0248,decreases risk
+271893,1,External credit score 3,0.0701,increases risk
+271893,2,Loan type,0.0267,increases risk
+271893,3,External credit score 1,0.0235,increases risk
+138590,1,External credit score 3,0.0703,increases risk
+138590,2,External credit score 2,0.0414,increases risk
+138590,3,Loan type,-0.0279,decreases risk
+346717,1,External credit score 3,0.0726,increases risk
+346717,2,External credit score 2,0.0439,increases risk
+346717,3,Loan type,-0.0252,decreases risk
+283534,1,Loan type,0.0276,increases risk
+283534,2,External credit score 1,0.0246,increases risk
+283534,3,Occupation,-0.0129,decreases risk
+369741,1,External credit score 2,0.0456,increases risk
+369741,2,Loan type,0.026,increases risk
+369741,3,External credit score 1,0.0253,increases risk
+323741,1,External credit score 3,0.0704,increases risk
+323741,2,External credit score 1,0.0239,increases risk
+323741,3,Loan type,0.0236,increases risk
+189381,1,External credit score 3,0.0717,increases risk
+189381,2,External credit score 2,0.0408,increases risk
+189381,3,Loan type,0.0257,increases risk
+446985,1,External credit score 3,0.0688,increases risk
+446985,2,External credit score 2,0.0408,increases risk
+446985,3,Loan type,0.0286,increases risk
+335146,1,External credit score 2,0.0397,increases risk
+335146,2,Loan type,0.0252,increases risk
+335146,3,Occupation,0.0241,increases risk
+412894,1,External credit score 3,0.0721,increases risk
+412894,2,External credit score 1,0.028,increases risk
+412894,3,Loan type,0.0268,increases risk
+208281,1,External credit score 2,0.0419,increases risk
+208281,2,Loan type,0.0256,increases risk
+208281,3,External credit score 1,0.025,increases risk
+347606,1,External credit score 3,0.0693,increases risk
+347606,2,External credit score 2,0.0407,increases risk
+347606,3,Loan type,0.025,increases risk
+328412,1,External credit score 3,0.069,increases risk
+328412,2,Loan type,0.0235,increases risk
+328412,3,External credit score 1,0.0228,increases risk
+177279,1,External credit score 3,0.0691,increases risk
+177279,2,External credit score 2,0.0431,increases risk
+177279,3,External credit score 1,0.0253,increases risk
+204838,1,External credit score 1,0.0244,increases risk
+204838,2,Loan type,0.024,increases risk
+204838,3,Occupation,-0.0142,decreases risk
+133636,1,External credit score 3,0.07,increases risk
+133636,2,External credit score 2,0.0407,increases risk
+133636,3,Loan type,0.0266,increases risk
+189320,1,External credit score 3,0.0675,increases risk
+189320,2,External credit score 2,0.0405,increases risk
+189320,3,Loan type,0.0262,increases risk
+303390,1,External credit score 2,0.0408,increases risk
+303390,2,Loan type,0.0271,increases risk
+303390,3,External credit score 1,0.0245,increases risk
+418928,1,External credit score 3,0.0742,increases risk
+418928,2,Loan type,0.0297,increases risk
+418928,3,External credit score 1,0.0275,increases risk
+389851,1,Loan type,0.026,increases risk
+389851,2,External credit score 1,0.026,increases risk
+389851,3,Years in current job,-0.0161,decreases risk
+129687,1,External credit score 2,0.0412,increases risk
+129687,2,External credit score 1,0.0255,increases risk
+129687,3,Loan type,0.024,increases risk
+450974,1,External credit score 3,0.0704,increases risk
+450974,2,External credit score 1,0.0283,increases risk
+450974,3,Loan type,0.0275,increases risk
+329023,1,External credit score 3,0.0719,increases risk
+329023,2,Loan type,0.0255,increases risk
+329023,3,External credit score 1,0.0235,increases risk
+347028,1,External credit score 3,0.0684,increases risk
+347028,2,Loan type,0.0278,increases risk
+347028,3,External credit score 1,0.0252,increases risk
+295699,1,External credit score 3,0.0697,increases risk
+295699,2,External credit score 2,0.0452,increases risk
+295699,3,Loan type,0.027,increases risk
+128497,1,External credit score 3,0.0661,increases risk
+128497,2,External credit score 1,0.0251,increases risk
+128497,3,Loan type,0.0239,increases risk
+367349,1,External credit score 3,0.0702,increases risk
+367349,2,Loan type,0.0257,increases risk
+367349,3,External credit score 1,0.0245,increases risk
+107008,1,External credit score 3,0.0696,increases risk
+107008,2,Loan type,0.027,increases risk
+107008,3,External credit score 1,0.0225,increases risk
+240633,1,External credit score 3,0.0699,increases risk
+240633,2,External credit score 2,0.0395,increases risk
+240633,3,Loan type,0.0259,increases risk
+349230,1,External credit score 3,0.0694,increases risk
+349230,2,External credit score 2,0.0403,increases risk
+349230,3,External credit score 1,0.0272,increases risk
+227286,1,External credit score 2,0.044,increases risk
+227286,2,Loan type,0.0253,increases risk
+227286,3,External credit score 1,0.0235,increases risk
+416073,1,External credit score 3,0.0694,increases risk
+416073,2,Loan type,0.0278,increases risk
+416073,3,External credit score 1,0.0247,increases risk
+172312,1,External credit score 3,0.0681,increases risk
+172312,2,External credit score 2,0.0436,increases risk
+172312,3,External credit score 1,0.0275,increases risk
+440625,1,External credit score 3,0.0681,increases risk
+440625,2,External credit score 2,0.0411,increases risk
+440625,3,Loan type,0.0292,increases risk
+367319,1,External credit score 3,0.072,increases risk
+367319,2,Loan type,0.0266,increases risk
+367319,3,External credit score 1,0.0261,increases risk
+245285,1,External credit score 2,0.0435,increases risk
+245285,2,Loan type,0.0285,increases risk
+245285,3,External credit score 1,0.0245,increases risk
+312514,1,External credit score 2,0.0434,increases risk
+312514,2,Loan type,0.0261,increases risk
+312514,3,External credit score 1,0.0224,increases risk
+112760,1,External credit score 3,0.0688,increases risk
+112760,2,External credit score 2,0.0418,increases risk
+112760,3,External credit score 1,0.0271,increases risk
+409321,1,External credit score 1,0.0263,increases risk
+409321,2,Loan type,0.0241,increases risk
+409321,3,External credit score 2,-0.0145,decreases risk
+200307,1,External credit score 2,0.0422,increases risk
+200307,2,External credit score 1,0.0254,increases risk
+200307,3,Loan type,0.0244,increases risk
+313471,1,External credit score 3,0.0735,increases risk
+313471,2,External credit score 2,0.0412,increases risk
+313471,3,Loan type,0.0265,increases risk
+311925,1,External credit score 1,0.0249,increases risk
+311925,2,Loan type,-0.024,decreases risk
+311925,3,External credit score 3,-0.0137,decreases risk
+115191,1,External credit score 3,0.0693,increases risk
+115191,2,Loan type,0.0253,increases risk
+115191,3,External credit score 1,0.025,increases risk
+330889,1,External credit score 2,0.0403,increases risk
+330889,2,Loan type,0.0273,increases risk
+330889,3,External credit score 1,0.0247,increases risk
+452976,1,External credit score 2,0.0431,increases risk
+452976,2,Loan type,0.027,increases risk
+452976,3,External credit score 1,0.0267,increases risk
+230337,1,External credit score 3,0.0696,increases risk
+230337,2,External credit score 2,0.0416,increases risk
+230337,3,External credit score 1,0.0257,increases risk
+121871,1,External credit score 3,0.0722,increases risk
+121871,2,External credit score 2,0.043,increases risk
+121871,3,Loan type,0.0278,increases risk
+180257,1,External credit score 3,0.0724,increases risk
+180257,2,External credit score 1,0.0264,increases risk
+180257,3,Loan type,0.0253,increases risk
+338321,1,External credit score 3,0.0705,increases risk
+338321,2,External credit score 1,0.025,increases risk
+338321,3,Loan type,0.0244,increases risk
+354196,1,External credit score 3,0.0669,increases risk
+354196,2,External credit score 2,0.0412,increases risk
+354196,3,Loan type,0.0241,increases risk
+342654,1,External credit score 3,0.071,increases risk
+342654,2,Loan type,0.0302,increases risk
+342654,3,External credit score 1,0.0271,increases risk
+411548,1,External credit score 2,0.0405,increases risk
+411548,2,External credit score 1,0.0243,increases risk
+411548,3,Loan type,0.0235,increases risk
+282173,1,External credit score 3,0.0684,increases risk
+282173,2,Occupation,0.0454,increases risk
+282173,3,External credit score 1,0.0273,increases risk
+151836,1,Loan type,0.0269,increases risk
+151836,2,External credit score 1,0.0259,increases risk
+151836,3,Occupation,0.0224,increases risk
+229245,1,External credit score 2,0.0406,increases risk
+229245,2,Loan type,0.0262,increases risk
+229245,3,Occupation,0.0245,increases risk
+365126,1,External credit score 3,0.0664,increases risk
+365126,2,External credit score 2,0.0401,increases risk
+365126,3,Loan type,0.0271,increases risk
+324112,1,External credit score 3,0.0727,increases risk
+324112,2,External credit score 1,0.0252,increases risk
+324112,3,Loan type,0.0251,increases risk
+201475,1,Loan type,0.0282,increases risk
+201475,2,External credit score 1,0.028,increases risk
+201475,3,External credit score 3,-0.0133,decreases risk
+249518,1,External credit score 3,0.0701,increases risk
+249518,2,External credit score 2,0.0432,increases risk
+249518,3,Loan type,0.0273,increases risk
+378579,1,External credit score 2,0.0434,increases risk
+378579,2,Loan type,0.0291,increases risk
+378579,3,External credit score 1,0.0261,increases risk
+361712,1,External credit score 3,0.0729,increases risk
+361712,2,External credit score 2,0.0424,increases risk
+361712,3,Loan type,0.0258,increases risk
+244745,1,External credit score 3,0.0724,increases risk
+244745,2,External credit score 2,0.0458,increases risk
+244745,3,Loan type,-0.0286,decreases risk
+134743,1,External credit score 3,0.071,increases risk
+134743,2,Loan type,0.0258,increases risk
+134743,3,External credit score 1,0.0256,increases risk
+173841,1,External credit score 3,0.0701,increases risk
+173841,2,External credit score 1,0.0261,increases risk
+173841,3,Loan type,0.0221,increases risk
+247997,1,External credit score 3,0.071,increases risk
+247997,2,External credit score 2,0.0411,increases risk
+247997,3,External credit score 1,0.0261,increases risk
+344920,1,External credit score 3,0.0682,increases risk
+344920,2,Loan type,0.0287,increases risk
+344920,3,External credit score 1,0.0253,increases risk
+128641,1,External credit score 3,0.0725,increases risk
+128641,2,External credit score 1,0.0289,increases risk
+128641,3,Loan type,0.0277,increases risk
+129883,1,External credit score 3,0.0721,increases risk
+129883,2,External credit score 2,0.043,increases risk
+129883,3,External credit score 1,0.0256,increases risk
+226360,1,External credit score 3,0.0711,increases risk
+226360,2,External credit score 2,0.0445,increases risk
+226360,3,External credit score 1,0.0268,increases risk
+106372,1,External credit score 2,0.0415,increases risk
+106372,2,Loan type,0.0269,increases risk
+106372,3,External credit score 1,0.0267,increases risk
+452105,1,External credit score 3,0.0721,increases risk
+452105,2,External credit score 2,-0.0355,decreases risk
+452105,3,Loan type,0.0274,increases risk
+193182,1,External credit score 3,0.0677,increases risk
+193182,2,External credit score 2,-0.0331,decreases risk
+193182,3,Loan type,0.0278,increases risk
+202261,1,External credit score 3,0.0719,increases risk
+202261,2,External credit score 2,0.0423,increases risk
+202261,3,External credit score 1,0.0256,increases risk
+351782,1,External credit score 2,0.042,increases risk
+351782,2,External credit score 1,0.0255,increases risk
+351782,3,Loan type,0.0242,increases risk
+223671,1,External credit score 3,0.0736,increases risk
+223671,2,External credit score 2,0.0446,increases risk
+223671,3,External credit score 1,0.0262,increases risk
+230988,1,External credit score 2,0.0424,increases risk
+230988,2,External credit score 1,0.0288,increases risk
+230988,3,Loan type,0.0271,increases risk
+426751,1,External credit score 1,0.0273,increases risk
+426751,2,Loan type,0.0261,increases risk
+426751,3,Occupation,0.0159,increases risk
+242669,1,External credit score 3,0.0683,increases risk
+242669,2,Loan type,0.0259,increases risk
+242669,3,External credit score 1,0.0246,increases risk
+378487,1,External credit score 3,0.0691,increases risk
+378487,2,External credit score 2,0.0412,increases risk
+378487,3,Loan type,0.0278,increases risk
+178022,1,External credit score 3,0.0714,increases risk
+178022,2,External credit score 2,0.0388,increases risk
+178022,3,Loan type,0.0256,increases risk
+456034,1,External credit score 2,0.045,increases risk
+456034,2,External credit score 1,0.0267,increases risk
+456034,3,Loan type,0.0259,increases risk
+313121,1,External credit score 2,0.0417,increases risk
+313121,2,Loan type,0.0258,increases risk
+313121,3,External credit score 1,0.0245,increases risk
+417813,1,External credit score 3,0.0707,increases risk
+417813,2,Loan type,0.0269,increases risk
+417813,3,External credit score 1,0.0259,increases risk
+230993,1,External credit score 1,0.026,increases risk
+230993,2,Loan type,0.0235,increases risk
+230993,3,Occupation,-0.0142,decreases risk
+393549,1,Loan type,0.0292,increases risk
+393549,2,External credit score 1,0.0285,increases risk
+393549,3,External credit score 3,-0.0154,decreases risk
+269059,1,External credit score 2,0.0445,increases risk
+269059,2,Loan type,0.0256,increases risk
+269059,3,External credit score 1,0.0247,increases risk
+379644,1,External credit score 3,0.0705,increases risk
+379644,2,External credit score 2,0.0435,increases risk
+379644,3,Loan type,0.0266,increases risk
+155513,1,External credit score 3,0.0696,increases risk
+155513,2,Loan type,0.0257,increases risk
+155513,3,External credit score 1,0.0235,increases risk
+379271,1,External credit score 2,0.0388,increases risk
+379271,2,Loan type,0.0271,increases risk
+379271,3,External credit score 1,0.0258,increases risk
+106925,1,External credit score 3,0.0667,increases risk
+106925,2,External credit score 1,0.0266,increases risk
+106925,3,Loan type,0.0223,increases risk
+334854,1,External credit score 2,0.042,increases risk
+334854,2,External credit score 1,0.0249,increases risk
+334854,3,Loan type,0.0233,increases risk
+317492,1,External credit score 3,0.0697,increases risk
+317492,2,External credit score 2,0.0424,increases risk
+317492,3,Loan type,0.0269,increases risk
+182109,1,External credit score 3,0.0695,increases risk
+182109,2,Loan type,0.0255,increases risk
+182109,3,External credit score 1,0.0242,increases risk
+385815,1,External credit score 2,0.0401,increases risk
+385815,2,External credit score 1,0.0264,increases risk
+385815,3,Loan type,0.0261,increases risk
+419987,1,External credit score 2,0.0415,increases risk
+419987,2,External credit score 1,0.0259,increases risk
+419987,3,Loan type,0.0251,increases risk
+408004,1,External credit score 1,0.0244,increases risk
+408004,2,Loan type,0.0224,increases risk
+408004,3,Social circle: defaults 30 days past due,-0.0157,decreases risk
+134346,1,External credit score 3,0.0691,increases risk
+134346,2,External credit score 1,0.0273,increases risk
+134346,3,Loan type,0.0241,increases risk
+427431,1,External credit score 3,0.0691,increases risk
+427431,2,External credit score 2,0.0419,increases risk
+427431,3,External credit score 1,0.0247,increases risk
+328645,1,External credit score 3,-0.0412,decreases risk
+328645,2,External credit score 2,0.0411,increases risk
+328645,3,Loan type,0.0268,increases risk
+122899,1,External credit score 2,0.0432,increases risk
+122899,2,External credit score 1,0.0252,increases risk
+122899,3,Loan type,0.0238,increases risk
+168964,1,External credit score 2,0.0418,increases risk
+168964,2,Loan type,0.0263,increases risk
+168964,3,External credit score 1,0.0238,increases risk
+226470,1,External credit score 3,0.0726,increases risk
+226470,2,External credit score 1,0.0274,increases risk
+226470,3,Loan type,0.0233,increases risk
+238186,1,External credit score 3,0.0733,increases risk
+238186,2,External credit score 2,0.0451,increases risk
+238186,3,Loan type,0.0296,increases risk
+219423,1,External credit score 3,0.0696,increases risk
+219423,2,External credit score 1,0.0257,increases risk
+219423,3,Loan type,0.0243,increases risk
+443179,1,External credit score 3,0.0687,increases risk
+443179,2,External credit score 2,0.0399,increases risk
+443179,3,External credit score 1,0.0265,increases risk
+247181,1,External credit score 3,0.0709,increases risk
+247181,2,External credit score 2,0.0415,increases risk
+247181,3,Loan type,0.027,increases risk
+216361,1,External credit score 3,0.0707,increases risk
+216361,2,External credit score 2,0.0414,increases risk
+216361,3,External credit score 1,0.0263,increases risk
+217214,1,External credit score 3,0.0732,increases risk
+217214,2,External credit score 2,0.0392,increases risk
+217214,3,External credit score 1,-0.0253,decreases risk
+238567,1,External credit score 3,0.0722,increases risk
+238567,2,External credit score 2,0.0431,increases risk
+238567,3,External credit score 1,0.0286,increases risk
+112549,1,External credit score 3,0.0755,increases risk
+112549,2,External credit score 2,0.0414,increases risk
+112549,3,Loan type,0.0266,increases risk
+169472,1,External credit score 3,0.0722,increases risk
+169472,2,External credit score 2,0.0438,increases risk
+169472,3,Loan type,0.0295,increases risk
+313595,1,External credit score 2,0.0417,increases risk
+313595,2,External credit score 3,-0.0388,decreases risk
+313595,3,External credit score 1,0.0263,increases risk
+316664,1,External credit score 3,0.0719,increases risk
+316664,2,External credit score 2,0.0425,increases risk
+316664,3,External credit score 1,-0.0255,decreases risk
+238787,1,External credit score 1,0.0278,increases risk
+238787,2,Loan type,0.023,increases risk
+238787,3,Occupation,0.0175,increases risk
+121171,1,External credit score 2,0.0399,increases risk
+121171,2,Loan type,0.0285,increases risk
+121171,3,External credit score 1,0.0249,increases risk
+190145,1,External credit score 3,0.0678,increases risk
+190145,2,External credit score 2,0.0403,increases risk
+190145,3,External credit score 1,0.0275,increases risk
